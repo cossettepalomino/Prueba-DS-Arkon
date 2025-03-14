@@ -33,6 +33,6 @@ Diagrama de flujo de un modelo de clasificación multiclase desde el entrenamien
 7. Monitorización: Implementar monitoreo del rendimiento del modelo en producción, para detectar posibles caídas de rendimiento con el tiempo.
 * Retraining: Programar un ciclo de retraining como parte de mantenimiento preventivo para evitar decrecimiento en el rendimiento debido a cambios en los datos de entrada.
 
-![Texto alternativo](images/mi_imagen.png)
+![Texto alternativo](/diagrama_de_flujo.JPG)
 
 
